@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mainframe-remake-two", "mainframe-remake-two\mainframe-remake-two.csproj", "{6E5BE758-FFFF-4354-B1AB-8A6F255D2A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E5BE758-FFFF-4354-B1AB-8A6F255D2A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5BE758-FFFF-4354-B1AB-8A6F255D2A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5BE758-FFFF-4354-B1AB-8A6F255D2A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5BE758-FFFF-4354-B1AB-8A6F255D2A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA0D840-2F39-4EA5-93A8-69E40D8DBCB5}
+	EndGlobalSection
+EndGlobal
